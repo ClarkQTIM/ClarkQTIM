@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClarkUCD, a masters student in statistics at the University of Colorado Denver.
-- 👀 I’m interested in public health and medical applications of statistics and machine learning.
-- 🌱 I’m currently learning machine learning and regression analysis.
-- 💞️ I’m looking to collaborate on public health and medical research.
+- 👀 I’m interested in applying statistics and machine learning/AI to financial problems, public health discovery and policy, and other medical applications.
+- 🌱 I’m currently learning and applying machine learning techniques, AI, and statistics.
+- 💞️ I’m looking to collaborate on public health and/or financial projects.
 - 📫 How to reach me: christopher.w.clark@ucdenver.edu
 
 <!---
