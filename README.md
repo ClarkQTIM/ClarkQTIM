@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClarkUCD, a masters student in statistics at the University of Colorado Denver.
+- 👋 Hi, I’m @ClarkUCD, a recent M.S. Statistics graduate from the University of Colorado Denver.
 - 👀 I’m interested in applying statistics and machine learning/AI to financial problems, public health discovery and policy, and other medical applications.
 - 🌱 I’m currently learning and applying machine learning techniques, AI, and statistics.
 - 💞️ I’m looking to collaborate on public health and/or financial projects.
